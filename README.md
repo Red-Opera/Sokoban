@@ -16,7 +16,7 @@ WindowAPI로 제작한 Sokoban 퍼즐 게임
     </li> 
     <li>
         <h3>Development Stack</h3>
-        <p>개발 도구 : <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/WinAPI-003399?style=flat&logo=windowsxp&logoColor=white"/></p>
+        <p>개발 도구 : <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>  <img src="https://custom-icon-badges.demolab.com/badge/Window API-003399?style=flat&logo=windows11&logoColor=white"/></p>
         <p>개발 언어 : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> </p>
     </li>
     <li>
@@ -30,7 +30,7 @@ WindowAPI로 제작한 Sokoban 퍼즐 게임
     </li>
     <li>
         <h3>Target Platform</h3>
-        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white"/></p>
+        <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/></p>
     </li>
 </ul>
 
