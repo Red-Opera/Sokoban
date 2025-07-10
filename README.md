@@ -4,7 +4,7 @@ WindowAPI로 제작한 Sokoban 퍼즐 게임
 ## 게임 포트폴리오 영상
 
 <a href="https://youtu.be/QHLWlav-a8M">
-    <img src="https://img.youtube.com/vi/QHLWlav-a8M/0.jpg" width="100%" height="100%"/>
+    <img src="https://img.youtube.com/vi/QHLWlav-a8M/0.jpg" width="100%"/>
 </a>
 이미지를 클릭하면 재생됩니다.
 
